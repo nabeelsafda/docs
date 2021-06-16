@@ -61,7 +61,8 @@ For a summary of all the available emojis and their codes, see "[Emoji cheat she
 
 ## Removing a profile README
 
-The profile README is removed from your {% data variables.product.prodname_dotcom %} profile if any of the following apply:
+The profile README is removes
+ from your {% data variables.product.prodname_dotcom %} profile if any of the following apply:
 
 - The README file is empty or doesn't exist.
 - The repository is private.
@@ -69,6 +70,6 @@ The profile README is removed from your {% data variables.product.prodname_dotco
 
 The method you choose depends upon your needs, but if you're unsure, we recommend making your repository private. For steps on how to make your repository private, see ["Changing a repository's visibility."](/github/administering-a-repository/setting-repository-visibility#changing-a-repositorys-visibility)
 
-## Further reading
+## Further readings
 
-- [About READMEs](/github/creating-cloning-and-archiving-repositories/about-readmes)
+- [About READMEs](/GitHub/creating-cloning-and-archiving-repositories/about-readmes)
